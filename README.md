@@ -1,14 +1,27 @@
 <h1>1. Banner</h1>
 
+<div align="center">
+	<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 60px></picture><h2><strong>Hi , I'm Miguel Angel Vallejo Giraldo😃👋</strong></h2>
+</div>
+
+<!--<div class="banner">-->
+<div align="center">
+    <h3></h3>
+    <p>Programador Junior</p>
+</div>
+
+<br>
+
+## <b>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<p>Email: <a>giraldomiguel21@gmail.com</a></p>
+	<p>Cel: <a>+57 314-801-1447</a></p>
+
 <br>
 
 <!--grid snake-->
 
 <br>
-
-<div align="center">
-	<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 60px></picture><h2><strong>Hi , I'm Miguel Angel 😃👋</strong></h2>
-</div>
 
 <!--
 <p align="center">
@@ -88,9 +101,6 @@
 </a>
 </div>
 
-<br>
-
-## <b>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
